@@ -1,0 +1,10 @@
+.btn-green {
+  background-color: #3BA864;
+  padding: 15px 20px;
+  border-radius: 5px;
+  display: inline-block;
+  margin-top: 10px;
+  color: #f2eee6;
+  font-weight: bold;
+  font-family: 'Wix Madefor Display', sans-serif;
+}
